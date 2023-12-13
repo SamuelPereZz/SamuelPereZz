@@ -1,7 +1,12 @@
 <h1 align="center">¡Hola! Soy Samuel Pérez 👨‍💻</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-### Creando Experiencias Web Atractivas
+## 
+
+- 🌐 Explora mis proyectos en mi [Portfolio](https://portfolio-samuel-developer.netlify.app/)
+- 📫 Contáctame en fernando.samuelperez01@gmail.com
+
+## Creando Experiencias Web Atractivas
 
 🌱 Soy un apasionado desarrollador que convierte ideas en soluciones elegantes y sólidas a través del código. Mi atención al detalle garantiza no solo la funcionalidad, sino también la estética en todos mis proyectos. Constantemente explorando nuevas tecnologías y metodologías para mantenerme a la vanguardia del panorama tecnológico en constante evolución.
 
@@ -10,11 +15,6 @@
 Mi pasión por la tecnología y la codificación me permite crear soluciones no solo funcionales, sino también estéticamente agradables. Mi constante búsqueda de nuevas tecnologías y metodologías me mantiene a la vanguardia del panorama tecnológico en constante evolución.
 
 Si buscas un desarrollador apasionado y experimentado, ¡no dudes en contactarme!
-
-- 🌐 Explora mis proyectos en mi [Portfolio](https://portfolio-samuel-developer.netlify.app/)
-- 💬 Abierto a conversar sobre React, JavaScript, Vuejs, Ruby, PostgreSQL, CSS, and HTML
-- 📫 Contáctame en fernando.samuelperez01@gmail.com
-- 📇 LinkedIn [https://www.linkedin.com/in/samperezr1/](https://www.linkedin.com/in/samperezr1/)
 
 ## 💻 Tech Stack
 
@@ -51,14 +51,22 @@ Si buscas un desarrollador apasionado y experimentado, ¡no dudes en contactarme
 <div align="center">  
   <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a> 
   <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
+  <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>
+  <a href="https://www.canva.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/2048px-Canva_icon_2021.svg.png" alt="Terraform" height="50" /></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>
 </div>
 
 </td></tr></table>
 
+## Contactame
+
 <div align="center">
-  <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>
-  <a href="https://www.canva.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/2048px-Canva_icon_2021.svg.png" alt="Terraform" height="50" /></a>
-  <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>
+  <a href="hhttps://www.linkedin.com/in/samperezr1/" target="_blank">
+  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.instagram.com/samuel_perezz00/" target="_blank">
+  <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+  </a> 
 </div>
 
 ## 🎓 Educación
@@ -67,21 +75,8 @@ Si buscas un desarrollador apasionado y experimentado, ¡no dudes en contactarme
 - Curso de Introducción a la programación: Feb 2022 - May 2022
 - Curso de desarrollo con videojuegos 2D: 2015
 
-## 👀 Intereses
-
-Comprometido con el aprendizaje continuo, busco ser un programador actualizado y en constante crecimiento.
-
-## 💞️ Busco colaborar en
-
-Busco oportunidades en proyectos innovadores, donde pueda contribuir y seguir creciendo en buenas prácticas de desarrollo.
-
 ## 💼 Experiencia laboral
 
 - Colaborador en equipo durante el bootcamp.
 
-## Proyectos Destacados
-
-- **Clivia Generator** - Desarrollé un sistema interactivo en consola utilizando `Ruby`.
-- **Tweeteable** - Una simulación de Twitter utilizando el framework `Ruby on Rails` para el Backend y HTML/CSS para el frontend.
-- **Eatable** - Desarrollé una aplicación web interactiva en `React`.
-- **Get That Home** - Participé en un proyecto de equipo en el que desempeñé un papel clave en el desarrollo completo de una aplicación inmobiliaria.
+¡Colaboremos y creemos maravillas juntos! 🚀
