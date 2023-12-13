@@ -1,10 +1,22 @@
-# ¡Hola! Soy Samuel Pérez 👋
+<h1 align="center">¡Hola! Soy Samuel Pérez 👨‍💻</h1>
+<h3 align="center">Full Stack Web Developer</h3>
 
-## 🙋🏽‍♂️ Acerca de mí
-Soy un apasionado desarrollador full stack con 2 años de experiencia, especializado en tecnologías como HTML5, CSS3, JavaScript, Ruby, SQL, PostgreSQL, Ruby on Rails, React y Vue.js. Mi enfoque no se limita solo al código, ya que también tengo habilidades de diseño utilizando herramientas como Canva, Figma y Corel.
+### Creando Experiencias Web Atractivas
+
+🌱 Soy un apasionado desarrollador que convierte ideas en soluciones elegantes y sólidas a través del código. Mi atención al detalle garantiza no solo la funcionalidad, sino también la estética en todos mis proyectos. Constantemente explorando nuevas tecnologías y metodologías para mantenerme a la vanguardia del panorama tecnológico en constante evolución.
+
+## 🫱🏾‍🫲🏼 ¿Por qué deberías colaborar conmigo?
+
+Mi pasión por la tecnología y la codificación me permite crear soluciones no solo funcionales, sino también estéticamente agradables. Mi constante búsqueda de nuevas tecnologías y metodologías me mantiene a la vanguardia del panorama tecnológico en constante evolución.
+
+Si buscas un desarrollador apasionado y experimentado, ¡no dudes en contactarme!
+
+- 🌐 Explora mis proyectos en mi [Portfolio](https://portfolio-samuel-developer.netlify.app/)
+- 💬 Abierto a conversar sobre React, JavaScript, Vuejs, Ruby, PostgreSQL, CSS, and HTML
+- 📫 Contáctame en fernando.samuelperez01@gmail.com
+- 📇 LinkedIn [https://www.linkedin.com/in/samperezr1/](https://www.linkedin.com/in/samperezr1/)
 
 ## 💻 Tech Stack
-
 
 <table><tr><td valign="top" width="33%">
 
@@ -39,12 +51,15 @@ Soy un apasionado desarrollador full stack con 2 años de experiencia, especiali
 <div align="center">  
   <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a> 
   <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
+</div>
+
+</td></tr></table>
+
+<div align="center">
   <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>
   <a href="https://www.canva.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/2048px-Canva_icon_2021.svg.png" alt="Terraform" height="50" /></a>
   <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>
 </div>
-
-</td></tr></table>
 
 ## 🎓 Educación
 
@@ -54,11 +69,7 @@ Soy un apasionado desarrollador full stack con 2 años de experiencia, especiali
 
 ## 👀 Intereses
 
-Estoy comprometido con el aprendizaje continuo, buscando ser un programador actualizado y en constante crecimiento.
-
-## 🌱 Aprendiendo
-
-Actualmente, estoy inmerso en el fascinante mundo de data science.
+Comprometido con el aprendizaje continuo, busco ser un programador actualizado y en constante crecimiento.
 
 ## 💞️ Busco colaborar en
 
@@ -68,15 +79,9 @@ Busco oportunidades en proyectos innovadores, donde pueda contribuir y seguir cr
 
 - Colaborador en equipo durante el bootcamp.
 
-## 🌱 Proyectos
+## Proyectos Destacados
 
 - **Clivia Generator** - Desarrollé un sistema interactivo en consola utilizando `Ruby`.
 - **Tweeteable** - Una simulación de Twitter utilizando el framework `Ruby on Rails` para el Backend y HTML/CSS para el frontend.
 - **Eatable** - Desarrollé una aplicación web interactiva en `React`.
 - **Get That Home** - Participé en un proyecto de equipo en el que desempeñé un papel clave en el desarrollo completo de una aplicación inmobiliaria.
-
-## 📫 Contacto
-
-- Email: fernando.samuelperez01@gmail.com
-- Sitio web: [https://portfolio-samuel-developer.netlify.app/](https://portfolio-samuel-developer.netlify.app/)
-- LinkedIn: [https://www.linkedin.com/in/sam-p%C3%A9rez/](https://www.linkedin.com/in/samperezr1/)
