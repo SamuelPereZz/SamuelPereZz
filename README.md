@@ -3,7 +3,7 @@
 
 ## Creando Experiencias Web Atractivas
 
-🌱 Soy un apasionado desarrollador que convierte ideas en soluciones elegantes y sólidas a través del código. Mi atención al detalle garantiza no solo la funcionalidad, sino también la estética en todos mis proyectos. Constantemente explorando nuevas tecnologías y metodologías para mantenerme a la vanguardia del panorama tecnológico en constante evolución.
+Soy un apasionado desarrollador que convierte ideas en soluciones elegantes y sólidas a través del código. Mi atención al detalle garantiza no solo la funcionalidad, sino también la estética en todos mis proyectos. Constantemente explorando nuevas tecnologías y metodologías para mantenerme a la vanguardia del panorama tecnológico en constante evolución.
 
 - 🌐 Explora mis proyectos en mi [Portfolio](https://portfolio-samuel-developer.netlify.app/)
 - 📫 Contáctame en fernando.samuelperez01@gmail.com
@@ -16,7 +16,7 @@ Mi pasión por la tecnología y la codificación me permite crear soluciones no 
 
 <table><tr><td valign="top" width="33%">
 
-### 🚀 Frontend
+### Frontend
 
 <div align="center">
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
@@ -29,7 +29,7 @@ Mi pasión por la tecnología y la codificación me permite crear soluciones no 
 
 </td><td valign="top" width="33%">
 
-### ⚙️ Backend
+### Backend
 
 <div align="center">  
   <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -42,7 +42,7 @@ Mi pasión por la tecnología y la codificación me permite crear soluciones no 
 
 </td><td valign="top" width="33%">
 
-### ♾️ DevOps / 🎨 Diseño
+### DevOps / Diseño
 
 <div align="center">  
   <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a> 
@@ -64,15 +64,5 @@ Mi pasión por la tecnología y la codificación me permite crear soluciones no 
   <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
   </a> 
 </div>
-
-## 🎓 Educación
-
-- Bootcamp Full Stack Developer: Marzo 2023 - Noviembre 2023
-- Curso de Introducción a la programación: Feb 2022 - May 2022
-- Curso de desarrollo con videojuegos 2D: 2015
-
-## 💼 Experiencia laboral
-
-- Colaborador en equipo durante el bootcamp.
 
 ¡Colaboremos y creemos maravillas juntos! 🚀
