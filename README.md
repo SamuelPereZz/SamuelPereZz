@@ -5,11 +5,10 @@ Soy un apasionado desarrollador full stack con 2 años de experiencia, especiali
 
 ## 💻 Tech Stack
 
-### 💻 Backend | 🚀 Frontend | 🎨 Diseño / ⚙️ DevOps
 
-|               |                  |                  |
+### |💻 Backend |🚀 Frontend |🎨 Diseño|
 |---------------|------------------|------------------|
-| ![Ruby Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/2048px-Ruby_logo.svg.png) | ![HTML5 Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png) | ![Canva Logo](https://assets.stickpng.com/images/5842a622a6515b1e0ad75af9.png) |
+| ![Ruby Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/2048px-Ruby_logo.svg.png) | ![HTML5 Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png) | ![Canva Logo](https://1000marcas.net/wp-content/uploads/2020/01/Canva-logo.png) |
 | ![SQL Logo](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png) | ![CSS3 Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/1024px-CSS3_logo.svg.png) | ![Figma Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png) |
 | ![PostgreSQL Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png) | ![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png) | ![Corel Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/CorelDraw_logo.svg/718px-CorelDraw_logo.svg.png) |
 | ![Ruby on Rails Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/2560px-Ruby_On_Rails_Logo.svg.png) | ![React Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png) | ![Docker Logo](https://www.docker.com/sites/default/files/d8/2019-06/Moby-logo.png) |
