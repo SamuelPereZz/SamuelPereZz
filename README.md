@@ -1,19 +1,37 @@
 # ¡Hola! Soy Samuel Pérez 👋
 
+## 🙋🏽‍♂️ Acerca de mí
 Soy un apasionado desarrollador full stack con 2 años de experiencia, especializado en tecnologías como HTML5, CSS3, JavaScript, Ruby, SQL, PostgreSQL, Ruby on Rails, React y Vue.js. Mi enfoque no se limita solo al código, ya que también tengo habilidades de diseño utilizando herramientas como Canva, Figma y Corel.
 
-## 🛠️ Habilidades
+## 💻 Tech Stack
 
-- HTML5
-- CSS3
-- JavaScript
-- Ruby
-- SQL
-- PostgreSQL
-- Ruby on Rails
-- React
-- Vue.js
-- Diseño (Canva, Figma, Corel)
+## 🚀 Frontend
+
+| Tecnología  | Logo                                   |
+|-------------|----------------------------------------|
+| HTML5       | ![HTML5 Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png)            |
+| CSS3        | ![CSS3 Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/1024px-CSS3_logo.svg.png)              |
+| JavaScript  | ![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png)  |
+| React       | ![React Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png)            |
+| Vue.js      | ![Vue.js Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png)             |
+
+## ⚙️ Backend
+
+| Tecnología      | Logo                                       |
+|-----------------|--------------------------------------------|
+| Ruby            | ![Ruby Logo](enlace_ruby)                   |
+| SQL             | ![SQL Logo](enlace_sql)                     |
+| PostgreSQL      | ![PostgreSQL Logo](enlace_postgresql)       |
+| Ruby on Rails   | ![Rails Logo](enlace_rails)                 |
+
+## 🎨 Diseño
+
+| Herramienta      | Logo                                      |
+|------------------|-------------------------------------------|
+| Canva            | ![Canva Logo](enlace_canva)                |
+| Figma            | ![Figma Logo](enlace_figma)                |
+| Corel            | ![Corel Logo](enlace_corel)                |
+
 
 ## 🎓 Educación
 
@@ -39,11 +57,10 @@ Busco oportunidades en proyectos innovadores, donde pueda contribuir y seguir cr
 
 ## 🌱 Proyectos
 
-- **Clivia Generator** - Desarrollé un sistema interactivo en consola utilizando Ruby.
-- **Tweeteable** - Simulación de Twitter con `Ruby on Rails` para el Backend y HTML/CSS para el frontend.
-- **Doable** - Aplicación para la creación y gestión de cuentas de usuario.
-- **Eatable** - Aplicación web interactiva desarrollada en React.
-- **Get That Home** - Rol clave en el desarrollo de una aplicación inmobiliaria en equipo.
+- **Clivia Generator** - Desarrollé un sistema interactivo en consola utilizando `Ruby`.
+- **Tweeteable** - Una simulación de Twitter utilizando el framework `Ruby on Rails` para el Backend y HTML/CSS para el frontend.
+- **Eatable** - Desarrollé una aplicación web interactiva en `React`.
+- **Get That Home** - Participé en un proyecto de equipo en el que desempeñé un papel clave en el desarrollo completo de una aplicación inmobiliaria.
 
 ## 📫 Contacto
 
