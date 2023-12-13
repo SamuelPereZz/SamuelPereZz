@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! Soy Samuel Pérez 👨‍💻</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-## Creando Experiencias Web Atractivas
+## Creando experiencias web atractivas
 
 Soy un apasionado desarrollador que convierte ideas en soluciones elegantes y sólidas a través del código. Mi atención al detalle garantiza no solo la funcionalidad, sino también la estética en todos mis proyectos. Constantemente explorando nuevas tecnologías y metodologías para mantenerme a la vanguardia del panorama tecnológico en constante evolución.
 
