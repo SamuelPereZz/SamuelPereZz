@@ -5,27 +5,20 @@ Soy un apasionado desarrollador full stack con 2 años de experiencia, especiali
 
 ## 💻 Tech Stack
 
+### 💻 Backend | 🚀 Frontend | 🎨 Diseño / ⚙️ DevOps
 
-
-| ### 🚀 Frontend                  | ### ⚙️ Backend                                            |
-|-------------------------------------------------------------|---------------------------------------------------------------------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png" width="50">            | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/2048px-Ruby_logo.svg.png" width="50">                   |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/1024px-CSS3_logo.svg.png" width="50">              | <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="50">                     |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" width="50">  | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="50">       |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="50">            | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/2560px-Ruby_On_Rails_Logo.svg.png" width="50">                 |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" width="50">             | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="50">                 |
-
-
-
-
-
-
-| ### 🎨 Diseño                                           |
-|------------------|----------------------------------------------------|
-| Canva            | <img src="https://assets.stickpng.com/images/5842a622a6515b1e0ad75af9.png" width="50">                |
-| Figma            | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="50">                |
-| Corel            | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/CorelDraw_logo.svg/718px-CorelDraw_logo.svg.png" width="50">                |
-
+|               |                  |                  |
+|---------------|------------------|------------------|
+| ![Ruby Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/2048px-Ruby_logo.svg.png) | ![HTML5 Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png) | ![Canva Logo](https://assets.stickpng.com/images/5842a622a6515b1e0ad75af9.png) |
+| ![SQL Logo](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png) | ![CSS3 Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/1024px-CSS3_logo.svg.png) | ![Figma Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png) |
+| ![PostgreSQL Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png) | ![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png) | ![Corel Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/CorelDraw_logo.svg/718px-CorelDraw_logo.svg.png) |
+| ![Ruby on Rails Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/2560px-Ruby_On_Rails_Logo.svg.png) | ![React Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png) | ![Docker Logo](https://www.docker.com/sites/default/files/d8/2019-06/Moby-logo.png) |
+|               | ![Vue.js Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png) | ![Kubernetes Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png) |
+|               |                  | ![Jenkins Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1024px-Jenkins_logo.svg.png) |
+|               |                  | ![npm Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/800px-Npm-logo.svg.png) |
+|               |                  | ![Ubuntu Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo-ubuntu_no%C2%AE.png/1920px-Logo-ubuntu_no%C2%AE.png) |
+|               | ![Git Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/2000px-Git-logo.svg.png) | |
+|               | ![VSCode Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png) | |
 ## 🎓 Educación
 
 - Bootcamp Full Stack Developer: Marzo 2023 - Noviembre 2023
