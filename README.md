@@ -9,7 +9,7 @@ Soy un apasionado creador que transforma ideas en soluciones elegantes y robusta
 
 ## ¿Por qué Colaborar Conmigo?
 
-Mi amor por la tecnología y la codificación me capacita para crear soluciones no solo funcionales, sino también visualmente atractivas. Mi búsqueda constante de nuevas tecnologías me mantiene a la vanguardia en este mundo en constante evolución.
+Mi amor por la tecnología y la codificación me capacita para crear soluciones no solo funcionales, sino también visualmente atractivas. Mi búsqueda constante de nuevas tecnologías me mantiene a la vanguardia en este mundo tecnológico. 
 
 ## 💻 Tech Stack
 
