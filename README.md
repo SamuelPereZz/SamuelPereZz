@@ -1,15 +1,15 @@
 <h1 align="center">¡Hola! Soy Samuel Pérez 👨‍💻 - Desarrollador Web Full Stack</h1>
 
-## Creando Experiencias Web Fascinantes
+## Creando experiencias web fascinantes
 
 Soy un apasionado creador que transforma ideas en soluciones elegantes y robustas mediante el código. Mi atención al detalle asegura no solo la funcionalidad, sino también la estética en cada proyecto. Siempre estoy explorando nuevas tecnologías y metodologías para estar al tanto del panorama tecnológico en constante evolución.
+Mi amor por la tecnología y la codificación me capacita para crear soluciones no solo funcionales, sino también visualmente atractivas. Mi búsqueda constante de nuevas tecnologías me mantiene a la vanguardia en este mundo tecnológico. 
 
 - 🌐 Explora mis proyectos en mi [Portafolio](https://portfolio-samuel-developer.netlify.app/)
 - 📫 Contáctame en fernando.samuelperez01@gmail.com
-
-## ¿Por qué Colaborar Conmigo?
-
-Mi amor por la tecnología y la codificación me capacita para crear soluciones no solo funcionales, sino también visualmente atractivas. Mi búsqueda constante de nuevas tecnologías me mantiene a la vanguardia en este mundo tecnológico. 
+- 💖 También amo viajar, conocer nuevas experiencias y hacer largas caminatas.
+- 🌱 Actualmente estoy aprendiendo ciencias de datos.
+- ⚡ Dato curioso: me encantan los videojuegos pero no hay tiempo para jugar.
 
 ## 💻 Tech Stack
   ### Backend
@@ -39,10 +39,10 @@ Mi amor por la tecnología y la codificación me capacita para crear soluciones 
   ## Contactame
 
   <div style="display: inline_block"><br> 
-  <a href = "mailto:fernando.samuelperez01@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "fernando.samuelperez01@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/samperezr1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/samuel_perezz00/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   </div>
-  .
+  
   <br/>
   <h3 align="center">¡Colaboremos y creemos maravillas juntos! 🚀</h3>
