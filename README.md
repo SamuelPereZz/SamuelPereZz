@@ -41,9 +41,9 @@ Mi amor por la tecnología y la codificación me capacita para crear soluciones 
   <a href="https://www.linkedin.com/in/samperezr1/" target="_blank" style="border-radius: 8px; overflow: hidden; background-color: #1E77B5; display: inline-block;">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
   </a>
-  <a href="https://www.instagram.com/samuel_perezz00/" target="_blank" style="border-radius: 8px; overflow: hidden; background-color: #E1306C; display: inline-block;">
-    <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
-  </a> 
+  <a href="https://www.instagram.com/samuel_perezz00/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
 </div>
 
 <br/>
