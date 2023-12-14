@@ -1,9 +1,9 @@
 <h1 align="center">¡Hola! Soy Samuel Pérez 👨‍💻 - Desarrollador Web Full Stack</h1>
-
+  <br/>
+  
 ## Creando experiencias web fascinantes
 
-Soy un apasionado creador que transforma ideas en soluciones elegantes y robustas mediante el código. Mi atención al detalle asegura no solo la funcionalidad, sino también la estética en cada proyecto. Siempre estoy explorando nuevas tecnologías y metodologías para estar al tanto del panorama tecnológico en constante evolución.
-Mi amor por la tecnología y la codificación me capacita para crear soluciones no solo funcionales, sino también visualmente atractivas. Mi búsqueda constante de nuevas tecnologías me mantiene a la vanguardia en este mundo tecnológico. 
+Soy un apasionado creador que transforma ideas en soluciones elegantes y robustas a través del código. Mi enfoque meticuloso garantiza funcionalidad y estética en cada proyecto. Siempre busco nuevas tecnologías para mantenerme al día en este mundo tecnológico en constante evolución.
 
 - 🌐 Explora mis proyectos en mi [Portafolio](https://portfolio-samuel-developer.netlify.app/)
 - 📫 Contáctame en fernando.samuelperez01@gmail.com
