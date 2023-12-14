@@ -23,10 +23,13 @@ Mi amor por la tecnología y la codificación me capacita para crear soluciones 
 [![DevOps](https://skillicons.dev/icons?i=linux,git,aws,powershell)](https://skillicons.dev)
 
 ### Testing
-[![Testing](https://skillicons.dev/icons?i=jest,cypress)](https://skillicons.dev)
+[![Testing](https://skillicons.dev/icons?i=jest)](https://skillicons.dev) 
+<a href="https://www.cypress.io/">
+  <img src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg" alt="Canva" width="50" height="50">
+</a>
 
 ### Diseño y Desarrollo
-[![Diseño y Desarrollo](https://skillicons.dev/icons?i=figma,emotion,vscode,canva,coreldraw)](https://skillicons.dev)
+[![Diseño y Desarrollo](https://skillicons.dev/icons?i=figma,emotion,vscode)](https://skillicons.dev)
 
 
 ## Contactame
