@@ -30,6 +30,9 @@ Mi amor por la tecnología y la codificación me capacita para crear soluciones 
 
 ### Diseño y Desarrollo
 [![Diseño y Desarrollo](https://skillicons.dev/icons?i=figma,emotion,vscode)](https://skillicons.dev)
+<a href="https://www.canva.com/">
+  <img src="https://1000marcas.net/wp-content/uploads/2020/01/Canva-logo.png" alt="Canva" width="50" height="50">
+</a>
 
 
 ## Contactame
