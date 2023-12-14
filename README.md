@@ -1,5 +1,3 @@
-<div align="center">
-
 <h1 align="center">¡Hola! Soy Samuel Pérez 👨‍💻 - Desarrollador Web Full Stack</h1>
 
 ## Creando Experiencias Web Fascinantes
@@ -14,7 +12,6 @@ Soy un apasionado creador que transforma ideas en soluciones elegantes y robusta
 Mi amor por la tecnología y la codificación me capacita para crear soluciones no solo funcionales, sino también visualmente atractivas. Mi búsqueda constante de nuevas tecnologías me mantiene a la vanguardia en este mundo tecnológico. 
 
 ## 💻 Tech Stack
-<div align="start">
   ### Backend
   [![Backend](https://skillicons.dev/icons?i=ruby,postgresql,rails,nodejs,bash)](https://skillicons.dev)
 
@@ -36,7 +33,6 @@ Mi amor por la tecnología y la codificación me capacita para crear soluciones 
   <a href="https://www.canva.com/">
     <img src="https://1000marcas.net/wp-content/uploads/2020/01/Canva-logo.png" alt="Canva" width="auto" height="50" >
   </a>
-  </div>
     
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelPereZz&layout=compact)
   
@@ -50,4 +46,3 @@ Mi amor por la tecnología y la codificación me capacita para crear soluciones 
   .
   <br/>
   <h3 align="center">¡Colaboremos y creemos maravillas juntos! 🚀</h3>
-  </div>
