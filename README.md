@@ -34,17 +34,24 @@ Mi amor por la tecnología y la codificación me capacita para crear soluciones 
   <img src="https://1000marcas.net/wp-content/uploads/2020/01/Canva-logo.png" alt="Canva" width="auto" height="50">
 </a>
 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelPereZz&layout=compact)
+
+<div style="display: flex"><br>
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg">
+</div>
 
 ## Contactame
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/samperezr1/" target="_blank" style="border-radius: 8px; overflow: hidden; background-color: #1E77B5; display: inline-block;">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.instagram.com/samuel_perezz00/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
+<div style="display: inline_block"><br> 
+<a href = "mailto:fernando.samuelperez01@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/samperezr1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/samuel_perezz00/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-
+.
 <br/>
 <h3 align="center">¡Colaboremos y creemos maravillas juntos! 🚀</h3>
