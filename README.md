@@ -28,22 +28,15 @@ Mi amor por la tecnología y la codificación me capacita para crear soluciones 
   <img src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg" alt="Canva" width="50" height="50">
 </a>
 
+
 ### Diseño y Desarrollo
 [![Diseño y Desarrollo](https://skillicons.dev/icons?i=figma,emotion,vscode)](https://skillicons.dev)
 <a href="https://www.canva.com/">
-  <img src="https://1000marcas.net/wp-content/uploads/2020/01/Canva-logo.png" alt="Canva" width="auto" height="50">
+  <img src="https://1000marcas.net/wp-content/uploads/2020/01/Canva-logo.png" alt="Canva" width="auto" height="50" >
 </a>
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelPereZz&layout=compact)
 
-<div style="display: flex"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg">
-</div>
 
 ## Contactame
 
