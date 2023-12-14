@@ -11,40 +11,42 @@ Soy un apasionado creador que transforma ideas en soluciones elegantes y robusta
 
 Mi amor por la tecnología y la codificación me capacita para crear soluciones no solo funcionales, sino también visualmente atractivas. Mi búsqueda constante de nuevas tecnologías me mantiene a la vanguardia en este mundo tecnológico. 
 
-## 💻 Tech Stack
+<div align="center">
+  ## 💻 Tech Stack
 
-### Backend
-[![Backend](https://skillicons.dev/icons?i=ruby,postgresql,rails,nodejs,bash)](https://skillicons.dev)
+  ### Backend
+  [![Backend](https://skillicons.dev/icons?i=ruby,postgresql,rails,nodejs,bash)](https://skillicons.dev)
 
-### Frontend
-[![Frontend](https://skillicons.dev/icons?i=html,css,javascript,react,vuejs,vite)](https://skillicons.dev)
+  ### Frontend
+  [![Frontend](https://skillicons.dev/icons?i=html,css,javascript,react,vuejs,vite)](https://skillicons.dev)
 
-### DevOps
-[![DevOps](https://skillicons.dev/icons?i=linux,git,aws,powershell)](https://skillicons.dev)
+  ### DevOps
+  [![DevOps](https://skillicons.dev/icons?i=linux,git,aws,powershell)](https://skillicons.dev)
 
-### Testing
-[![Testing](https://skillicons.dev/icons?i=jest)](https://skillicons.dev) 
-<a href="https://www.cypress.io/">
-  <img src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg" alt="Canva" width="50" height="50">
-</a>
-
-
-### Diseño y Desarrollo
-[![Diseño y Desarrollo](https://skillicons.dev/icons?i=figma,emotion,vscode)](https://skillicons.dev)
-<a href="https://www.canva.com/">
-  <img src="https://1000marcas.net/wp-content/uploads/2020/01/Canva-logo.png" alt="Canva" width="auto" height="50" >
-</a>
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelPereZz&layout=compact)
+  ### Testing
+  [![Testing](https://skillicons.dev/icons?i=jest)](https://skillicons.dev) 
+  <a href="https://www.cypress.io/">
+    <img src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg" alt="Canva" width="50" height="50">
+  </a>
 
 
-## Contactame
+  ### Diseño y Desarrollo
+  [![Diseño y Desarrollo](https://skillicons.dev/icons?i=figma,emotion,vscode)](https://skillicons.dev)
+  <a href="https://www.canva.com/">
+    <img src="https://1000marcas.net/wp-content/uploads/2020/01/Canva-logo.png" alt="Canva" width="auto" height="50" >
+  </a>
 
-<div style="display: inline_block"><br> 
-<a href = "mailto:fernando.samuelperez01@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/samperezr1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/samuel_perezz00/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelPereZz&layout=compact)
+
+
+  ## Contactame
+
+  <div style="display: inline_block"><br> 
+  <a href = "mailto:fernando.samuelperez01@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/samperezr1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/samuel_perezz00/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  </div>
+  .
+  <br/>
+  <h3 align="center">¡Colaboremos y creemos maravillas juntos! 🚀</h3>
 </div>
-.
-<br/>
-<h3 align="center">¡Colaboremos y creemos maravillas juntos! 🚀</h3>
