@@ -13,15 +13,15 @@ Mi amor por la tecnología y la codificación me capacita para crear soluciones 
 
 ## 💻 Tech Stack
 
-<table><tr><td valign="top" width="33%">
-
+### Backend
 [![Backend](https://skillicons.dev/icons?i=ruby,postgresql,rails,nodejs)](https://skillicons.dev)
 
+### Frontend
 [![Frontend](https://skillicons.dev/icons?i=html5,css3,javascript,react,vuejs)](https://skillicons.dev)
 
+### DevOps / Diseño
 [![DevOps / Diseño](https://skillicons.dev/icons?i=linux,git,figma,canva,aws)](https://skillicons.dev)
 
-</td></tr></table>
 
 ## Contactame
 
