@@ -14,7 +14,7 @@ Mi pasión por la tecnología y la codificación me permite crear soluciones no 
 
 ## 💻 Tech Stack
 
-</td><td valign="top" width="33%">
+<table><tr><td valign="top" width="33%">
 
 ### Backend
 
@@ -24,7 +24,8 @@ Mi pasión por la tecnología y la codificación me permite crear soluciones no 
   <a href="https://rubyonrails.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rails-original-wordmark.svg" alt="Ruby on Rails" height="50" /></a>
   <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 </div>
-<table><tr><td valign="top" width="33%">
+
+</td><td valign="top" width="33%">
 
 ### Frontend
 
