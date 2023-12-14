@@ -23,10 +23,10 @@ Mi amor por la tecnología y la codificación me capacita para crear soluciones 
 [![DevOps](https://skillicons.dev/icons?i=linux,git,aws,powershell)](https://skillicons.dev)
 
 ### Testing
-[![Testing](https://skillicons.dev/icons?i=jest)](https://skillicons.dev)
+[![Testing](https://skillicons.dev/icons?i=jest,cypress)](https://skillicons.dev)
 
 ### Diseño y Desarrollo
-[![Diseño y Desarrollo](https://skillicons.dev/icons?i=figma,emotion,vscode)](https://skillicons.dev)
+[![Diseño y Desarrollo](https://skillicons.dev/icons?i=figma,emotion,vscode,canva,coreldraw)](https://skillicons.dev)
 
 
 ## Contactame
