@@ -8,8 +8,8 @@ Soy un apasionado creador que transforma ideas en soluciones elegantes y robusta
 - 🌐 Explora mis proyectos en mi [Portafolio](https://portfolio-samuel-developer.netlify.app/)
 - 📫 Contáctame en fernando.samuelperez01@gmail.com
 - 💖 También amo viajar, conocer nuevas experiencias y hacer largas caminatas.
-- 🌱 Actualmente estoy aprendiendo ciencias de datos.
-- ⚡ Dato curioso: me encantan los videojuegos pero no hay tiempo para jugar.
+- 🌱 Actualmente estoy aprendiendo `ciencias de datos`.
+- ⚡ Dato curioso: Mi lenguaje favorito es `Javascript`.
 
 ## 💻 Tech Stack
   ### Backend
