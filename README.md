@@ -13,13 +13,13 @@ Soy un apasionado creador que transforma ideas en soluciones elegantes y robusta
 
 ## 💻 Tech Stack
   ### Backend
-  [![Backend](https://skillicons.dev/icons?i=ruby,postgresql,rails,nodejs,bash)](https://skillicons.dev)
+  [![Backend](https://skillicons.dev/icons?i=ruby,postgresql,rails,nodejs)](https://skillicons.dev)
 
   ### Frontend
-  [![Frontend](https://skillicons.dev/icons?i=html,css,javascript,react,vuejs,vite)](https://skillicons.dev)
+  [![Frontend](https://skillicons.dev/icons?i=html,css,javascript,react,vuejs,vite,emotion)](https://skillicons.dev)
 
   ### DevOps
-  [![DevOps](https://skillicons.dev/icons?i=linux,git,aws,powershell)](https://skillicons.dev)
+  [![DevOps](https://skillicons.dev/icons?i=linux,git,aws,powershell,bash)](https://skillicons.dev)
 
   ### Testing
   [![Testing](https://skillicons.dev/icons?i=jest)](https://skillicons.dev) 
@@ -29,7 +29,7 @@ Soy un apasionado creador que transforma ideas en soluciones elegantes y robusta
 
 
   ### Diseño y Desarrollo
-  [![Diseño y Desarrollo](https://skillicons.dev/icons?i=figma,emotion,vscode)](https://skillicons.dev)
+  [![Diseño y Desarrollo](https://skillicons.dev/icons?i=figma,vscode)](https://skillicons.dev)
   <a href="https://www.canva.com/">
     <img src="https://1000marcas.net/wp-content/uploads/2020/01/Canva-logo.png" alt="Canva" width="auto" height="50" >
   </a>
