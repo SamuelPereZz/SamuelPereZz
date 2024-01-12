@@ -13,13 +13,13 @@ Soy un apasionado creador que transforma ideas en soluciones elegantes y robusta
 
 ## 💻 Tech Stack
   ### Backend
-  [![Backend](https://skillicons.dev/icons?i=ruby,postgresql,rails,nodejs)](https://skillicons.dev)
+  [![Backend](https://skillicons.dev/icons?i=ruby,postgresql,rails,nodejs,aws)](https://skillicons.dev)
 
   ### Frontend
   [![Frontend](https://skillicons.dev/icons?i=html,css,javascript,react,vuejs,vite,emotion)](https://skillicons.dev)
 
-  ### DevOps
-  [![DevOps](https://skillicons.dev/icons?i=linux,git,aws,powershell,bash)](https://skillicons.dev)
+  ### Terminal 
+  [![DevOps](https://skillicons.dev/icons?i=linux,git,powershell,bash)](https://skillicons.dev)
 
   ### Testing
   [![Testing](https://skillicons.dev/icons?i=jest)](https://skillicons.dev) 
