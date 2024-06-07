@@ -24,7 +24,7 @@ Soy un apasionado creador que transforma ideas en soluciones elegantes y robusta
   ### Testing
   [![Testing](https://skillicons.dev/icons?i=jest)](https://skillicons.dev) 
   <a href="https://www.cypress.io/">
-    <img src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg" alt="Canva" width="50" height="50">
+    <img src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg" alt="Cypress" width="50" height="50">
   </a>
 
 
