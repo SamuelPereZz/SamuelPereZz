@@ -16,7 +16,7 @@ Soy un apasionado creador que transforma ideas en soluciones elegantes y robusta
   [![Backend](https://skillicons.dev/icons?i=ruby,postgresql,rails,nodejs,aws)](https://skillicons.dev)
 
   ### Frontend
-  [![Frontend](https://skillicons.dev/icons?i=html,css,javascript,react,vuejs,angular,emotion)](https://skillicons.dev)
+  [![Frontend](https://skillicons.dev/icons?i=html,css,javascript,react,angular)](https://skillicons.dev)
 
   ### Terminal 
   [![DevOps](https://skillicons.dev/icons?i=linux,git,powershell,bash)](https://skillicons.dev)
