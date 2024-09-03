@@ -34,7 +34,7 @@ Soy un apasionado creador que transforma ideas en soluciones elegantes y robusta
     <img src="https://1000marcas.net/wp-content/uploads/2020/01/Canva-logo.png" alt="Canva" width="auto" height="50" >
   </a>
     
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelPereZz&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelPereZz&layout=compact&theme=radical)
   
   ## Contactame
 
