@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Samuel Pérez 👨‍💻 - Desarrollador Front-End</h1>
+<h1 align="center">¡Hola! Soy Samuel Pérez 🤓 - Desarrollador Front-End</h1>
   <br/>
   
 ## Creando experiencias web modernas
@@ -19,7 +19,7 @@ Soy un Desarrollador implementando proyectos en React, especializado en la creac
   [![Frontend](https://skillicons.dev/icons?i=html,css,javascript,react,angular)](https://skillicons.dev)
 
   ### Terminal 
-  [![DevOps](https://skillicons.dev/icons?i=linux,git,powershell,bash)](https://skillicons.dev)
+  [![DevOps](https://skillicons.dev/icons?i=git,powershell,bash)](https://skillicons.dev)
 
   ### Diseño y Desarrollo
   [![Diseño y Desarrollo](https://skillicons.dev/icons?i=figma,vscode)](https://skillicons.dev)
