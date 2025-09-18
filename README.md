@@ -1,14 +1,14 @@
-<h1 align="center">¡Hola! Soy Samuel Pérez 👨‍💻 - Desarrollador Web Full Stack</h1>
+<h1 align="center">¡Hola! Soy Samuel Pérez 👨‍💻 - Desarrollador Front-End</h1>
   <br/>
   
-## Creando experiencias web fascinantes
+## Creando experiencias web modernas
 
-Soy un apasionado creador que transforma ideas en soluciones elegantes y robustas a través del código. Mi enfoque meticuloso garantiza funcionalidad y estética en cada proyecto. Siempre busco nuevas tecnologías para mantenerme al día en este mundo tecnológico en constante evolución.
+Soy un Desarrollador implementando proyectos en React, especializado en la creación de interfaces web modernas, eficientes y centradas en el usuario. Mi enfoque garantiza funcionalidad y estética en cada proyecto. Siempre busco nuevas tecnologías para mantenerme al día en este mundo tecnológico en constante evolución.
 
 - 🌐 Explora mis proyectos en mi [Portafolio](https://portfolio-samuel-developer.netlify.app/)
 - 📫 Contáctame en fernando.samuelperez01@gmail.com
 - 💖 También amo viajar, crear nuevas experiencias y escuchar musica
-- 🌱 Actualmente estoy aprendiendo `ciencias de datos`
+- 🌱 Actualmente estoy aprendiendo `Angular`
 - ⚡ Dato curioso: Mi lenguaje favorito es `Javascript`
 
 ## 💻 Tech Stack
@@ -20,13 +20,6 @@ Soy un apasionado creador que transforma ideas en soluciones elegantes y robusta
 
   ### Terminal 
   [![DevOps](https://skillicons.dev/icons?i=linux,git,powershell,bash)](https://skillicons.dev)
-
-  ### Testing
-  [![Testing](https://skillicons.dev/icons?i=jest)](https://skillicons.dev) 
-  <a href="https://www.cypress.io/">
-    <img src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg" alt="Cypress" width="50" height="50">
-  </a>
-
 
   ### Diseño y Desarrollo
   [![Diseño y Desarrollo](https://skillicons.dev/icons?i=figma,vscode)](https://skillicons.dev)
