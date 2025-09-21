@@ -8,7 +8,7 @@ Soy un Desarrollador implementando proyectos en React, especializado en la creac
 - 🌐 Explora mis proyectos en mi [Portafolio](https://portfolio-samuel-developer.netlify.app/)
 - 📫 Contáctame en fernando.samuelperez01@gmail.com
 - 💖 También amo viajar, crear nuevas experiencias y escuchar musica
-- 🌱 Actualmente estoy aprendiendo `Angular`
+- 🌱 Actualmente estoy aprendiendo `typescript`
 - ⚡ Dato curioso: Mi lenguaje favorito es `Javascript`
 
 ## 💻 Tech Stack
@@ -16,7 +16,7 @@ Soy un Desarrollador implementando proyectos en React, especializado en la creac
   [![Backend](https://skillicons.dev/icons?i=ruby,postgresql,rails,nodejs,aws)](https://skillicons.dev)
 
   ### Frontend
-  [![Frontend](https://skillicons.dev/icons?i=html,css,javascript,react,angular)](https://skillicons.dev)
+  [![Frontend](https://skillicons.dev/icons?i=html,css,javascript,react,angular,typescript)](https://skillicons.dev)
 
   ### Terminal 
   [![DevOps](https://skillicons.dev/icons?i=git,powershell,bash)](https://skillicons.dev)
