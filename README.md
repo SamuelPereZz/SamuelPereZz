@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Samuel Pérez - Desarrollador Front-End</h1>
+<h1 align="center">¡Hola! Soy Sam Pérez - Desarrollador Front-End</h1>
   <br/>
   
 ## Creando experiencias web modernas
