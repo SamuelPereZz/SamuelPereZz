@@ -13,7 +13,7 @@ Soy un Desarrollador implementando proyectos en React, especializado en la creac
 
 ## 💻 Tech Stack
   ### Backend
-  [![Backend](https://skillicons.dev/icons?i=ruby,postgresql,rails,nodejs,aws)](https://skillicons.dev)
+  [![Backend](https://skillicons.dev/icons?i=ruby,postgresql,rails,phyton,aws)](https://skillicons.dev)
 
   ### Frontend
   [![Frontend](https://skillicons.dev/icons?i=html,css,javascript,react,angular,typescript)](https://skillicons.dev)
