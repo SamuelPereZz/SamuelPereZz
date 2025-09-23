@@ -21,8 +21,8 @@ Soy un Desarrollador implementando proyectos en React, especializado en la creac
   ### Terminal 
   [![DevOps](https://skillicons.dev/icons?i=git,powershell,bash)](https://skillicons.dev)
 
-  ### Diseño y Desarrollo
-  [![Diseño y Desarrollo](https://skillicons.dev/icons?i=figma,vscode)](https://skillicons.dev)
+  ### Diseño
+  [![Diseño y Desarrollo](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
   <a href="https://www.canva.com/">
     <img src="https://1000marcas.net/wp-content/uploads/2020/01/Canva-logo.png" alt="Canva" width="auto" height="50" >
   </a>
