@@ -1,9 +1,10 @@
-<h1 align="center">¡Hola! Soy Sam Pérez - Desarrollador Front-End</h1>
+<h1 align="center">👋 ¡Hola! Soy Sam Pérez</h1>
   <br/>
   
-## Creando experiencias web modernas
+## 🚀 Desarrollador Front-End
 
-Soy un Desarrollador implementando proyectos en React, especializado en la creación de interfaces web modernas, eficientes y centradas en el usuario. Mi enfoque garantiza funcionalidad y estética en cada proyecto. Siempre busco nuevas tecnologías para mantenerme al día en este mundo tecnológico en constante evolución.
+💻 Apasionado por construir experiencias web modernas con React, JavaScript y CSS.
+Me gusta transformar ideas en productos digitales que sean rápidos, intuitivos y atractivos, siempre cuidando la experiencia del usuario.
 
 - 🌐 Explora mis proyectos en mi [Portafolio](https://portfolio-samuel-developer.netlify.app/)
 - 📫 Contáctame en fernando.samuelperez01@gmail.com
