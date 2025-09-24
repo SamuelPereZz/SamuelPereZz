@@ -1,7 +1,7 @@
-<h1 align="center">👋 ¡Hola! Soy Sam Pérez</h1>
+<h1 align="center">👋 ¡Hola! Soy Sam Pérez - Desarrollador Front-End 🚀</h1>
   <br/>
   
-## 🚀 Desarrollador Front-End
+
 ### 💻 Creando experiencias web modernas y funcionales
 
 Soy un desarrollador especializado en Javascript, enfocado en construir interfaces atractivas con React, rápidas y fáciles de usar.
