@@ -6,6 +6,7 @@
 Soy un desarrollador especializado en Javascript, enfocado en construir interfaces atractivas con React, rápidas y fáciles de usar.
 Mi objetivo es unir funcionalidad + estética, asegurando siempre una experiencia de usuario de calidad.
 
+
 - 🌐 Explora mis proyectos en mi [Portafolio](https://portfolio-samuel-developer.netlify.app/)
 - 📫 Contáctame en fernando.samuelperez01@gmail.com
 - 💖 También amo viajar, crear nuevas experiencias y escuchar musica
@@ -13,6 +14,7 @@ Mi objetivo es unir funcionalidad + estética, asegurando siempre una experienci
 - ⚡ Dato curioso: Mi lenguaje favorito es `Javascript`
 
 ## 💻 Tech Stack
+
   ### Backend
   [![Backend](https://skillicons.dev/icons?i=ruby,postgresql,rails,python,aws)](https://skillicons.dev)
 
