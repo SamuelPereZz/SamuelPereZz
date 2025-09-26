@@ -1,9 +1,9 @@
 <h1 align="center">👋 ¡Hola! Soy Sam Pérez - Desarrollador Front-End 🚀</h1>
   <br/>
   
-## 💻 Creando experiencias web modernas y funcionales
+## ✨ Creando experiencias web modernas y funcionales
 
-💻 Apasionado por construir experiencias web modernas con React, JavaScript y CSS.
+🌱 Apasionado por construir experiencias web modernas con React, JavaScript y CSS.
 Me gusta transformar ideas en productos digitales que sean rápidos, intuitivos y atractivos, siempre cuidando la experiencia del usuario.
 
 
