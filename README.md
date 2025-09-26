@@ -19,7 +19,7 @@ Mi objetivo es unir funcionalidad + estética, asegurando siempre una experienci
   [![Backend](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
   ### Backend
-  [![Backend](https://skillicons.dev/icons?i=ruby,postgresql,rails,python,aws)](https://skillicons.dev)
+  [![Backend](https://skillicons.dev/icons?i=ruby,postgresql,rails,python)](https://skillicons.dev)
 
   ### Frontend
   [![Frontend](https://skillicons.dev/icons?i=html,css,javascript,react,angular,typescript)](https://skillicons.dev)
