@@ -16,7 +16,7 @@ Mi objetivo es unir funcionalidad + estética, asegurando siempre una experienci
 ## 💻 Tech Stack
 
 ### Nube
-  [![Backend](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+  [![Backend](https://skillicons.dev/icons?i=aws,azure)](https://skillicons.dev)
 
   ### Backend
   [![Backend](https://skillicons.dev/icons?i=ruby,postgresql,rails,python)](https://skillicons.dev)
