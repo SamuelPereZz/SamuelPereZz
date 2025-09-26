@@ -3,8 +3,8 @@
   
 ## 💻 Creando experiencias web modernas y funcionales
 
-Soy un desarrollador especializado en Javascript, enfocado en construir interfaces atractivas con React, rápidas y fáciles de usar.
-Mi objetivo es unir funcionalidad + estética, asegurando siempre una experiencia de usuario de calidad.
+💻 Apasionado por construir experiencias web modernas con React, JavaScript y CSS.
+Me gusta transformar ideas en productos digitales que sean rápidos, intuitivos y atractivos, siempre cuidando la experiencia del usuario.
 
 
 - 🌐 Explora mis proyectos en mi [Portafolio](https://portfolio-samuel-developer.netlify.app/)
